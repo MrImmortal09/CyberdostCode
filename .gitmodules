@@ -1,0 +1,12 @@
+[submodule "wdajwtbackend"]
+	path = wdajwtbackend
+	url = https://github.com/MrImmortal09/wdajwtbackend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/MrImmortal09/cyberdostreact.git
+[submodule "newsBackend"]
+	path = newsBackend
+	url = https://github.com/Robinaditya1045/newsBackend.git
+[submodule "forumBackend"]
+	path = forumBackend
+	url = https://github.com/salonii04/forumBackend.git
